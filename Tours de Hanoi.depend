@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1550922865 source:c:\users\administrateur\documents\c++\tours de hanoi\main.cpp
+	<iostream>
+	<vector>
+	<array>
+
+1550938676 source:e:\c++\tours de hanoi\main.cpp
+	<iostream>
+	<vector>
+	<array>
+
